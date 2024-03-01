@@ -1,5 +1,3 @@
-Certainly! Here's an example of a README file for a Spring Boot microservice project:
-
 # Spring Boot Microservice Project
 
 This is a Spring Boot microservice project that I developed while learning the skills required for building microservices with Spring Boot from Amigoscode. The project focuses on creating a simple RESTful API using Spring Boot, incorporating various components and features commonly used in microservice architectures.
